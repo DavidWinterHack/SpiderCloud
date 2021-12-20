@@ -1,7 +1,7 @@
 # SpiderCloud
 TravelSolutionRepository
 
-//Diagrama
+//Diagrama en los archivos 
 
 SLA compuesto 99.95%
 TCO 7,715 Dolares al año
