@@ -4,6 +4,7 @@ TravelSolutionRepository
 //Diagrama
 
 SLA compuesto 99.95%
+TCO 7,715 Dolares al año
 
 
 Tiempo sin disponibilidad en un año 0.1825 dias
